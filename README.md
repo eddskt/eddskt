@@ -43,7 +43,7 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddskt&layout=compact)](https://github.com/eddskt/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddskt&layout=compact)](https://github.com/eddskt/github-readme-stats)
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddskt&show_icons=true&locale=en&layout=compact" alt="eddskt" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddskt&show_icons=true&locale=en" alt="eddskt" /></p>

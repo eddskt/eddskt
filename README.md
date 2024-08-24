@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Kokar<br>👯 I’m looking to collaborate on projects with JS, React Native, TS, HTML and CSS<br>🌱 I’m currently learning: Python, React (web), and Beautiful APIs<br>💬 Ask me about HTML, CSS e Javascript, I don't know much, I don't know little, I only know what I know, and I only know that I know nothing<br>⚡ Fun fact: I like to produce electronic music, skate, and create projects that make my daily life easier, internal tools for myself hahaha
+🔭 I’m currently working on private Projects<br>👯 I’m looking to collaborate on projects with JS, React Native, TS, HTML and CSS<br>🌱 I’m currently learning: Python, React (web), and Beautiful APIs<br>💬 Ask me about HTML, CSS e Javascript, I don't know much, I don't know little, I only know what I know, and I only know that I know nothing<br>⚡ Fun fact: I like to produce electronic music, skate, and create projects that make my daily life easier, internal tools for myself hahaha
 
 
 ## 🌐 Socials:
